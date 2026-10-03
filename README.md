@@ -17,16 +17,6 @@ A simple Snake game built with **C++** and **Raylib**.
 | S   | Move down  |
 | D   | Move right |
 
-## Build
-
-The project uses CMake.
-
-```bash
-cmake -B build -S .
-cmake --build build
-```
-
-
 ## Current Status
 
 This project is currently under development. More features such as food, growing the snake, collision detection, and game-over logic will be added.
